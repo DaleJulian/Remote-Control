@@ -1901,7 +1901,20 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020038;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020039;
         public static final int abc_textfield_search_material=0x7f02003a;
-        public static final int ic_launcher=0x7f02003b;
+        public static final int bar=0x7f02003b;
+        public static final int bar_patch=0x7f02003c;
+        public static final int button_shape=0x7f02003d;
+        public static final int button_shape_normal=0x7f02003e;
+        public static final int button_shape_pressed=0x7f02003f;
+        public static final int button_shape_shadowed=0x7f020040;
+        public static final int button_text_color=0x7f020041;
+        public static final int ic_action_search=0x7f020042;
+        public static final int ic_launcher=0x7f020043;
+        public static final int inset=0x7f020044;
+        public static final int inset_patch=0x7f020045;
+        public static final int remote_background=0x7f020046;
+        public static final int window=0x7f020047;
+        public static final int window_patch=0x7f020048;
     }
     public static final class id {
         public static final int action_bar=0x7f090040;
@@ -1917,7 +1930,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09003d;
         public static final int action_mode_bar_stub=0x7f09003c;
         public static final int action_mode_close_button=0x7f090025;
-        public static final int action_settings=0x7f090050;
+        public static final int action_settings=0x7f090053;
         public static final int activity_chooser_view_content=0x7f090026;
         public static final int alertTitle=0x7f090030;
         public static final int always=0x7f090019;
@@ -1938,6 +1951,9 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f090027;
         public static final int expanded_menu=0x7f090037;
         public static final int fragmentContainer=0x7f09004f;
+        public static final int fragment_remote_control_selectedTextView=0x7f090051;
+        public static final int fragment_remote_control_table_layout=0x7f090050;
+        public static final int fragment_remote_control_workingTextView=0x7f090052;
         public static final int home=0x7f090000;
         public static final int homeAsUp=0x7f09000e;
         public static final int icon=0x7f09002b;
@@ -2043,10 +2059,12 @@ containing a value of this type.
         public static final int abc_simple_dropdown_hint=0x7f030018;
         public static final int activity_fragment=0x7f030019;
         public static final int activity_remote_control=0x7f03001a;
-        public static final int select_dialog_item_material=0x7f03001b;
-        public static final int select_dialog_multichoice_material=0x7f03001c;
-        public static final int select_dialog_singlechoice_material=0x7f03001d;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001e;
+        public static final int button_row=0x7f03001b;
+        public static final int fragment_remote_control=0x7f03001c;
+        public static final int select_dialog_item_material=0x7f03001d;
+        public static final int select_dialog_multichoice_material=0x7f03001e;
+        public static final int select_dialog_singlechoice_material=0x7f03001f;
+        public static final int support_simple_spinner_dropdown_item=0x7f030020;
     }
     public static final class menu {
         public static final int remote_control=0x7f0c0000;
@@ -2329,6 +2347,7 @@ containing a value of this type.
         public static final int Platform_V12_AppCompat_Light=0x7f0b0114;
         public static final int Platform_V14_AppCompat=0x7f0b0115;
         public static final int Platform_V14_AppCompat_Light=0x7f0b0116;
+        public static final int RemoteButton=0x7f0b011d;
         public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f0b00db;
         public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f0b00dc;
         public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f0b00dd;
