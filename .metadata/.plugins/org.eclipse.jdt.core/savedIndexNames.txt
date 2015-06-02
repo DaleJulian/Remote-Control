@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+/home/dale/Desktop/RemoteControl/.metadata/.plugins/org.eclipse.jdt.core
+1455972553.index
+2167895647.index
+1992467520.index
+427838907.index
+1270315800.index
